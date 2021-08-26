@@ -1,0 +1,146 @@
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+/* Header-section */
+.header{
+    background-color: #101446;
+}
+
+.header-logo img{
+    width: 80px;
+    height: auto;
+    margin-top: 7px;
+}
+
+.prymary-menu{
+    text-align: right;
+}
+.prymary-menu ul{
+    margin-bottom: 0;
+}
+.prymary-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.prymary-menu ul li a{
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 66px;
+}
+
+.prymary-menu ul li a:hover{
+    background-color: #fff;
+    color: black;
+}
+
+
+/* banner section */
+
+.banner{
+    background-image: url(https://i.postimg.cc/Gp9q3x9x/intro-bg.jpg);
+    padding: 400px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-text{}
+.banner-text h1{
+    color: #fff;
+}
+.banner-text p{
+    color: #fff;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+
+
+
+/* Service Section */
+
+.service{
+    background-color: #bac1f3;
+}
+.service-heding{}
+.service-heding h2{}
+.service-heding{}
+
+.service-teem img{
+    margin: auto;
+    margin-top: 10px;
+}
+.service-teem h4{
+    margin-top: 10px;
+}
+.service-teem p{
+    max-width: 250px;
+    margin: auto;
+}
+.service-teem a{
+    width: 50%;
+    margin: auto;
+}
+
+
+
+
+
+/* about Section */
+
+.about{
+    background-color: #c2d4ea;
+}
+
+img{
+    max-width: 100%;
+}
+
+.name{
+    width: 207px;
+}
+
+.about-detail{
+    font-size: 22px;
+}
+
+
+
+
+
+/* Contact Section */
+
+.contact{
+    background-color: #f5f5f5;
+}
+.google-map{}
+.contact-form{}
+.contact-form{}
+
+
+
+
+
+/* Footer Section */
+
+.footer{
+    background-color: #0062d3;
+    text-align: center;
+}
+
+.footer p{
+    color: #fff;
+    width: 280px;
+    display: inline-block;
+}
+
